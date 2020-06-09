@@ -1,0 +1,17 @@
+var food = "Pho";
+
+var is_delicious = true;
+
+food = "Pizza";
+
+var num2 = 25;
+
+var num7 =  50;
+
+var quotient = (num7 / num2);
+
+var songs = ["What is Love", "Have a Cigar"];
+
+var nextSong = songs.shift();
+
+var numFood = food.length;
