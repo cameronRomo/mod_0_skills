@@ -1,0 +1,21 @@
+Instance: WebberGrill
+
+Attributes:
+
+* foodOnGrill: ["hamburger", "zucchini",]
+
+* burnersOn: 0/4
+
+* propaneOn: false
+
+* chefAttending: "Bruce"
+
+Methods:
+
+* addFood: foodOnGrill = ["hamburger", "zucchini", "brat"]
+
+* igniteBurners: burnersOn = 3/4
+
+* turnOnPropane: propaneOn = true
+
+* changeChef: chefAttending = "Tom"
