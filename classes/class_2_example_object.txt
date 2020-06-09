@@ -1,0 +1,21 @@
+Instance: Frigidaire
+
+Attributes:
+
+* fridgeOpen: false
+
+* numberOfShelves: 3
+
+* veggiesInFridge: ["zucchini", "lettuce", "brussels sprouts"]
+
+* lastServicerName: "Robert"
+
+Methods:
+
+* openFridge: fridgeOpen = true
+
+* addShelves: numberOfShelves = 4
+
+* removeVeggies: veggiesInFridge = ["lettuce", "brussels sprouts"]
+
+* newService: lastServicerName = "Ted"
