@@ -1,0 +1,21 @@
+Class: Fridge
+
+Attributes:
+
+* fridgeOpen (boolean)
+
+* numberOfShelves (integer)
+
+* veggiesInFridge (array)
+
+* lastServicerName (string)
+
+Methods:
+
+* openFridge (change boolean value associated with fridgeOpen attribute to a true value)
+
+* addShelves (change integer number associated with numberOfShelves attribute)
+
+* removeVeggies (remove a veggie from the veggiesInFridge array using an array method)
+
+* newService (change the name of lastServicerName attribute)
