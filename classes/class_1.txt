@@ -1,0 +1,21 @@
+Class: Grill
+
+Attributes:
+
+* foodOnGrill (array)
+
+* burnersOn (integer)
+
+* propaneOn (boolean)
+
+* chefAttending (string)
+
+Methods:
+
+* addFood (Changes the foodOnGrill attribute by using the push method)
+
+* igniteBurners (changes the burnersOn attribute to have more)
+
+* turnOnPropane (Changes propaneOn attribute to a true value)
+
+* changeChef (changes the chef name associated with the chefAttending attribute)
