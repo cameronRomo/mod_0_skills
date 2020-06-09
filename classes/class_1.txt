@@ -4,7 +4,7 @@ Attributes:
 
 * foodOnGrill (array)
 
-* burnersOn (integer)
+* burnersOn (float)
 
 * propaneOn (boolean)
 
